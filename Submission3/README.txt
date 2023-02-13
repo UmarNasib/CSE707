@@ -8,14 +8,14 @@ Native/original format:
 https://
 
 Name, Author, Edition, year and publisher of the Book:
-Designing Distributed Systems, Brendan Burns, 1st edition, 2018, O'Reilly Media, Inc
+Principles of Distributed Computing, Roger Wattenhofer, 2005, Springer
 
 Link to the book:
-https://drive.google.com/file/d/15lAJeZXbw_ry6Nx-D6e8WS4eq9ErxgFF/view?usp=sharing
+https://disco.ethz.ch/courses/podc_allstars/lecture/podc.pdf
 
 Link to the book chapter:
-Chapter 3: Ambassadors
-https://drive.google.com/file/d/15lAJeZXbw_ry6Nx-D6e8WS4eq9ErxgFF/view?usp=sharing
+Chapter 6: Shared Objects
+https://disco.ethz.ch/courses/podc_allstars/lecture/chapter6.pdf
 
 Group Number:
 02
