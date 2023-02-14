@@ -2,10 +2,10 @@ Link to unlisted youtube video:
 https://youtu.be/
 
 PDF: 
-https://github.com/
+https://github.com/UmarNasib/CSE707/blob/main/Submission3/Concept%20Map.pdf
 
 Native/original format: 
-https://
+https://drive.google.com/file/d/1gO-vNHbIIhL29cY5Q97eFQxsp0DBW1zU/view?usp=sharing
 
 Name, Author, Edition, year and publisher of the Book:
 Principles of Distributed Computing, Roger Wattenhofer, 2005, Springer
