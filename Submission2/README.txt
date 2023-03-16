@@ -10,9 +10,5 @@ End-to-End Speech Synthesis for Bangla with Text Normalization
 Link to the paper:
 https://ieeexplore.ieee.org/document/8457103
 
-Group Number:
-02
-
-Group Members:
+Prepared By:
 19166009        Abdullah Umar Nasib
-22366041        Adria Binte Habib
