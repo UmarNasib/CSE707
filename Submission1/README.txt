@@ -5,10 +5,10 @@ Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://
+https://docs.google.com/presentation/d/1vhd8ze9gNQ4-Qyw6MM4mGncRltTHquT6EAr3sE4nEgw/edit?usp=sharing
 
 Project title:
-Fedarated Learning
+Detection of Melanoma Skin Cancer from Red Blood Cell using Federated Learning
 
 Group Number:
 02
