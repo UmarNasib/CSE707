@@ -1,29 +1,13 @@
-Unlisted youtube video:
-https://
-
-Conference submitted paper / paper submission / login Link:
-https://
-
-Paper title:
+Paper Title: 
+Preserving Medical Data Privacy with Federated Learning
 
 
-Paper presentation (anyone can view without login):
-https://docs.google.com/
+Paper Overleaf link:
+https://www.overleaf.com/7353162832rtrptmxyzzqh
 
-Paper submission date: 
-
-Paper submission ID: 
-
-Conference Name:
-
-
-Conference URL:
-https://
-
-Paper Status: 
 
 Group Number:
-0
+02
 
 Group Members:
 19166009        Abdullah Umar Nasib
