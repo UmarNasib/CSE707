@@ -1,4 +1,4 @@
-aper Overleaf link:
+Paper Overleaf link:
 https://www.overleaf.com/7353162832rtrptmxyzzqh
 
 Unlisted YouTube video:
