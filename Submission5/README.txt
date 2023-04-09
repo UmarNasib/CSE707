@@ -2,7 +2,7 @@ Paper Overleaf link:
 https://www.overleaf.com/7353162832rtrptmxyzzqh
 
 Unlisted YouTube video:
-
+https://youtu.be/nyDxKYfvfLw
 
 Paper Title: 
 Preserving Medical Data Privacy with Federated Learning
