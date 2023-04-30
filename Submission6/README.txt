@@ -16,11 +16,10 @@ Paper submission date (to workshop/conference):
 Manuscript Number:
 1
 
-Journal Name:
-STI 2023
-27th International Conference on Science, Technology and Innovation Indicators, 2023
+Conference Name:
+5th International Conference on Sustainable Technologies for Industry 5.0 (2023)
 
-Journal URL:
+Conference URL:
 https://www.sti2023.org/
 
 Group Number:
