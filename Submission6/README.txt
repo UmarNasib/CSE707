@@ -8,7 +8,7 @@ Paper Title:
 Preserving Medical Data Privacy with Federated Learning
 
 Paper presentation:
-
+https://docs.google.com/presentation/d/1yBaArkaztFtT1mdSSdmYs0vWfK1lIu0-0PS4vGS6HNo/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 
@@ -20,7 +20,6 @@ Journal Name:
 
 
 Journal URL:
-
 
 
 Group Number:
