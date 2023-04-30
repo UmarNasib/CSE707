@@ -20,7 +20,7 @@ Conference Name:
 5th International Conference on Sustainable Technologies for Industry 5.0 (2023)
 
 Conference URL:
-https://www.sti2023.org/
+https://sti.green.edu.bd/
 
 Group Number:
 02
